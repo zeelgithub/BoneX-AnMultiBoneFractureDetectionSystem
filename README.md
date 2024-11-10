@@ -41,8 +41,10 @@ To contribute, follow these steps:
    ```bash
    git checkout -b feature/AmazingFeature
 3. **Commit** your changes
+    ```bash
     git commit -m "Add some AmazingFeature"
 4. **Push** it to branch
+    ```bash
     git push origin feature/AmazingFeature
 5. **Open** a pull request. 
-6. 
+ 
